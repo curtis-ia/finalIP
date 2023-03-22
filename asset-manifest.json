@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.js": "/finalIP/static/js/main.9da28974.js",
-    "static/media/Logo.png": "/finalIP/static/media/Logo.7f9f8095f4818a80ede7.png",
-    "index.html": "/finalIP/index.html",
-    "main.9da28974.js.map": "/finalIP/static/js/main.9da28974.js.map"
+    "main.js": "/finalIP.git/static/js/main.e032522e.js",
+    "static/media/Logo.png": "/finalIP.git/static/media/Logo.7f9f8095f4818a80ede7.png",
+    "index.html": "/finalIP.git/index.html",
+    "main.e032522e.js.map": "/finalIP.git/static/js/main.e032522e.js.map"
   },
   "entrypoints": [
-    "static/js/main.9da28974.js"
+    "static/js/main.e032522e.js"
   ]
 }
